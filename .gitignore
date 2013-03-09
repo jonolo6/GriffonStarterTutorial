@@ -1,0 +1,4 @@
+staging/**
+dist/**
+.idea/**
+stacktrace.log
